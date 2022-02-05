@@ -15,7 +15,7 @@ description: This lecture provides a brief overview of the political history of 
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/15aa4a6bdc3712bfc2385be526aa1f14_lect5.pdf
 file_type: application/pdf
 resourcetype: Document
-title: "\tSocial and Political Background for Reconstruction: Politics and Society\
-  \ in Iraq in the 20-21st Century"
+title: ' Social and Political Background for Reconstruction: Politics and Society
+  in Iraq in the 20-21st Century'
 uid: 15aa4a6b-dc37-12bf-c238-5be526aa1f14
 ---

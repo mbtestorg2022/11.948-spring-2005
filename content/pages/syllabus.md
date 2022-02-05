@@ -53,7 +53,36 @@ Students are expected to read and critically assess the course readings, partici
 *   Reconstruction and the status of the capital: Baghdad in the case of Iraq
 *   Critical reading (social, cultural, economic, …) for the reconstruction project
 
-| Activities | gradings |
-| --- | --- |
-| Participation | 20% |
-| Presentation | 80%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+gradings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
