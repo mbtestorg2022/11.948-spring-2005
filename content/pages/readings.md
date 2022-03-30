@@ -92,7 +92,7 @@ The U.S. Post-September 11 Reconstruction Agenda
 {{< tdopen >}}
 
 
-Center for Strategic and International Studies, and the Association of the U.S. Army. _Play to Win: Final Report of the bi-partisan Commission on Post-Conflict Reconstruction_. U.S.A., 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://csis.org/files/media/csis/pubs/playtowin.pdf))
+Center for Strategic and International Studies, and the Association of the U.S. Army. _Play to Win: Final Report of the bi-partisan Commission on Post-Conflict Reconstruction_. U.S.A., 2003. ([PDF](http://csis.org/files/media/csis/pubs/playtowin.pdf))
 
 Vaishnav, Milan. "Afghanistan: The Chimera of the 'Light Footprint'." In _Winning the Peace: An American Strategy for Post-Conflict Reconstruction_. CSIS Significant Issues, No. 26. Edited by Robert C. Orr. Washington, DC: The CSIS Press, 2004, pp. 244-262. ISBN: 0892064447.
 
@@ -172,7 +172,7 @@ Copson, Raymond W. "Iraq War? Current Situation and Issues for Congress." CRS Re
 
 ———. "Iraq: Recent Developments in Reconstruction Assistance." CRS Report for Congress. Updated April 22, 2003.
 
-Cordesman, Anthony H. "Nation Building in Iraq: A Status Report." Center for Strategic and International Studies, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://csis.org/files/media/csis/pubs/iraq_nationbuildingnews.pdf))
+Cordesman, Anthony H. "Nation Building in Iraq: A Status Report." Center for Strategic and International Studies, 2004. ([PDF](http://csis.org/files/media/csis/pubs/iraq_nationbuildingnews.pdf))
 
 
 {{< tdclose >}}
@@ -276,7 +276,7 @@ Conclusions and Critiques: Planning and Reconstruction; Vision and Realities; St
 
 Braude, Joseph. _The New Iraq: Rebuilding the Country for Its People, the Middle East, and the World_. New York, NY: Basic Books, 2003. ISBN: 0465007880.
 
-Cordesman, Anthony H. "Transnational Threats: The Emerging Strategic Lessons from the U.S. Intervention in Iraq." Center for Strategic and International Studies_,_ 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://csis.org/files/media/csis/pubs/iraq_transnationalthreats.pdf))
+Cordesman, Anthony H. "Transnational Threats: The Emerging Strategic Lessons from the U.S. Intervention in Iraq." Center for Strategic and International Studies_,_ 2003. ([PDF](http://csis.org/files/media/csis/pubs/iraq_transnationalthreats.pdf))
 
 _Recommended Movie_
 
